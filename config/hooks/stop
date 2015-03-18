@@ -1,5 +1,0 @@
-#!/bin/bash
-
-set -e
-
-sudo allah stop machiavelli_${APP_ENV}_unicorn
